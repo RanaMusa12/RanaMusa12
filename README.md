@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RanaMusa12/RanaMusa12/blob/main/cat.gif" width="500" alt="Rana coding illustration"/>
+  <img src="https://github.com/RanaMusa12/RanaMusa12/blob/main/cat1.gif" width="500" alt="Rana coding illustration"/>
 </p>
 
 
