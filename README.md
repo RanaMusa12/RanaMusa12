@@ -2,9 +2,9 @@
   <img src="https://github.com/RanaMusa12/RanaMusa12/blob/main/cat1.gif" width="500" alt="Rana coding illustration"/>
 </p>
 
-<p align="center">
-# ✨ Hey there! I'm Rana 💻🌸
-</p>
+<h1 align="center" >
+✨ Hey there! I'm Rana 💻🌸
+</h1>
 🎀 I'm a **Computer Engineering student** from **Ramallah, Palestine**, and a passionate **Front-End Developer** who loves building beautiful, interactive web experiences!  
 🌍 Currently studying at **Birzeit University** (2021 - 2026)  
 💌 Contact me: itsrana88@gmail.com
