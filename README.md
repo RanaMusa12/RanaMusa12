@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/RanaMusa12/RanaMusa12/blob/main/computer.gif" width="500" alt="Rana coding illustration"/>
+</p>
+
+
 # ✨ Hey there! I'm Rana Musa 💻🌸
 
 🎀 I'm a **Computer Engineering student** from **Ramallah, Palestine**, and a passionate **Front-End Developer** who loves building beautiful, interactive web experiences!  
