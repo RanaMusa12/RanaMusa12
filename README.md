@@ -23,17 +23,8 @@
 
 ## 🛠️ My Toolbox
 
-### 👩‍💻 Languages
-`Java` • `C` • `Python`
 
-### 🌐 Front-End
-`HTML` • `CSS` • `JavaScript` • `React.js`
-
-### 🗄️ Databases
-`MySQL`
-
-### 🧰 Tools & Platforms
-`VS Code` • `Git & GitHub`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaMusa12&layout=compact&theme=radical&hide_border=true)
 
 ---
 
